@@ -15,4 +15,11 @@ body {
   background-color: #e9e9e9;
   font-family: "Ysabeau Infant", sans-serif;
   font-weight: 500;
+}
+
+.cus-navbar .cus-logo {
+  width: 35vmin;
+}
+.cus-navbar .cus-logoimg {
+  width: 100%;
 }/*# sourceMappingURL=style.css.map */
