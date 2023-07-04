@@ -15,3 +15,11 @@ body{
     font-family: $font-family-base;
     font-weight: $font-weight-medium;
 }
+.cus-navbar{
+    .cus-logo{
+        width: 35vmin;
+        &img{
+            width: 100%;
+        }
+    }
+}
