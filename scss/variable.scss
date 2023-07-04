@@ -1,0 +1,21 @@
+/* -- Color Code Variable -- */
+$background-color : #e9e9e9;
+$font-color: #222;
+$border-color-black: #222;
+$border-color-orange:#ff602c;
+$border-color-yellow:#fff083;
+
+/* -- Typography -- */
+$base-font-size : 16 ;
+$base-font-size-px : $base-font-size * 1px;
+$base-font-size-narrow : $base-font-size - 2;
+$base-font-size-narrow-px : $base-font-size-narrow * 1px;
+
+$font-family-base : 'Ysabeau Infant', sans-serif;
+
+$font-weight-regular : 400; 
+$font-weight-medium  : 500;
+$font-weight-semibold : 600;
+$font-weight-bold  : 700;
+$font-weight-extrabold  : 800;
+$font-weight-black : 900; 
